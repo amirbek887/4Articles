@@ -140,7 +140,7 @@ outline-offset: 2px;
 .item-latest-videos-img {
   width: 160px;
   height: auto;
-  object-fit: cover ;
+  object-fit: cover;
   border-radius: 4px;
 }
 .item-latest-videos-info {
@@ -168,10 +168,10 @@ outline-offset: 2px;
 .item-latest-videos-meta {
   display: flex;
   align-items: center;
-  color: #888;
   font-family: "Roboto Condensed", "Arial", sans-serif;
   font-size: 14px;
   line-height: normal;
+  color: #888;
 }
 .item-latest-videos-meta-item {
   display: flex;
